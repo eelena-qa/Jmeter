@@ -1,2 +1,2 @@
-# Jmeter
+# JMeter
 Нагрузочное тестирование в Jmeter
